@@ -24,13 +24,6 @@ By transforming raw data into meaningful graphs and charts, we hope to make it e
 - **Customization**: Easily adjust parameters to focus on specific regions or time periods.
 - **User-Friendly Interface**: Designed to be accessible to both data scientists and the general public.
 
-## Example
-<img width="1591" alt="Bildschirmfoto 2024-07-13 um 20 07 20" src="https://github.com/user-attachments/assets/dff4da0e-de31-448a-8ccd-482fa5519b6c">
-
-<img width="1589" alt="Bildschirmfoto 2024-07-13 um 20 07 07" src="https://github.com/user-attachments/assets/19eaac91-6a6c-46cc-83f6-af2dd72535fd">
-
-
-
 ## Getting Started
 
 To get started with this project, clone the repository and follow the setup instructions in the `INSTALLATION.md` file. You'll need Python and several libraries, which can be installed via `pip`.
