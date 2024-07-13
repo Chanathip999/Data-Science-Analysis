@@ -1,4 +1,4 @@
-# COVID-19 Data Visualization
+# COVID-19 Data Analysis
 
 Welcome to the COVID-19 Data Visualization project! This repository contains code and resources for visualizing COVID-19 data to help understand the pandemic's progression and impact.
 
