@@ -2,6 +2,10 @@
 
 Welcome to the COVID-19 Data Visualization project! This repository contains code and resources for visualizing COVID-19 data to help understand the pandemic's progression and impact.
 
+<img width="1591" alt="Bildschirmfoto 2024-07-13 um 20 07 20" src="https://github.com/user-attachments/assets/dff4da0e-de31-448a-8ccd-482fa5519b6c">
+
+<img width="1589" alt="Bildschirmfoto 2024-07-13 um 20 07 07" src="https://github.com/user-attachments/assets/19eaac91-6a6c-46cc-83f6-af2dd72535fd">
+
 ## Overview
 
 This project aims to provide clear and insightful visualizations of COVID-19 data, including:
