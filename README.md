@@ -20,9 +20,7 @@ By transforming raw data into meaningful graphs and charts, I hope to make it ea
 ## Features
 
 - **Interactive Dashboards**: Explore data with interactive charts and maps.
-- **Up-to-Date Information**: Automatically fetches the latest data from reliable sources.
 - **Customization**: Easily adjust parameters to focus on specific regions or time periods.
-- **User-Friendly Interface**: Designed to be accessible to both data scientists and the general public.
 
 ## Getting Started
 
